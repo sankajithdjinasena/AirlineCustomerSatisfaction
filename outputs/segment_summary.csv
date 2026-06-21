@@ -1,0 +1,4 @@
+Class_label,n,predicted_satisfaction_rate,actual_satisfaction_rate
+Business,12495,0.7028,0.6952
+Eco,11564,0.1624,0.1939
+Eco Plus,1917,0.2311,0.2478
